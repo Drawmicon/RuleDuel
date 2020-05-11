@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RuleDuel</string>
+    <string name="playerName">Player</string>
+    <string name="rivalName">Gary</string>
+    <string name="score">0 - 0</string>
+    <string name="scissors">Scissors</string>
+    <string name="paper">Paper</string>
+    <string name="rock">Rock</string>
+</resources>
